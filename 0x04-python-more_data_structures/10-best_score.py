@@ -1,7 +1,7 @@
 
 #!/usr/bin/python3
 # 10-best_score.py
-# # UKA JOSEPH <ukaukwauyojoseph@gmail.com>
+# UKA JOSEPH <ukaukwauyojoseph@gmail.com>
 
 def best_score(a_dictionary):
     """Returns a key with the biggest integer value."""

@@ -1,7 +1,7 @@
 
 #!/usr/bin/python3
 # 7-update_dictionary.py
-# # UKA JOSEPH <ukaukwauyojoseph@gmail.com>
+# UKA JOSEPH <ukaukwauyojoseph@gmail.com>
 
 def update_dictionary(a_dictionary, key, value):
     """Replace or add key/value pairs in a dictionary."""

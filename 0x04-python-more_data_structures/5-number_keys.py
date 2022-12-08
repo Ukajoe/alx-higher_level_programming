@@ -1,7 +1,7 @@
 
 #!/usr/bin/python3
 # 5-number_keys.py
-# # UKA JOSEPH <ukaukwauyojoseph@gmail.com>
+# UKA JOSEPH <ukaukwauyojoseph@gmail.com>
 
 def number_keys(a_dictionary):
     """Return the number of keys in a dictionary."""

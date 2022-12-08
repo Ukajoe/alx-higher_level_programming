@@ -1,7 +1,7 @@
 
 #!/usr/bin/python3
 # 9-multiple_by_2.py
-# # UKA JOSEPH <ukaukwauyojoseph@gmail.com>
+# UKA JOSEPH <ukaukwauyojoseph@gmail.com>
 
 def multiply_by_2(a_dictionary):
     """Return a new dictionary with all values multipled by 2."""

@@ -1,7 +1,7 @@
 
 #!/usr/bin/python3
 # 8-simple_delete.py
-# # UKA JOSEPH <ukaukwauyojoseph@gmail.com>
+# UKA JOSEPH <ukaukwauyojoseph@gmail.com>
 
 def simple_delete(a_dictionary, key=""):
     if key in a_dictionary:

@@ -1,7 +1,7 @@
 
 #!/usr/bin/python3
 # 6-print_sorted_dictionary.py
-# # UKA JOSEPH <ukaukwauyojoseph@gmail.com>
+# UKA JOSEPH <ukaukwauyojoseph@gmail.com>
 
 def print_sorted_dictionary(a_dictionary):
     """Print a dictionary by ordered keys."""

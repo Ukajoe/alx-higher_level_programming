@@ -1,7 +1,7 @@
 
 #!/usr/bin/python3
 # 12-roman_to_int.py
-# # UKA JOSEPH <ukaukwauyojoseph@gmail.com>
+# UKA JOSEPH <ukaukwauyojoseph@gmail.com>
 
 def roman_to_int(roman_string):
     """Converts a roman numeral to an integer."""

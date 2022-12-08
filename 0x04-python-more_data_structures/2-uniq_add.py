@@ -1,7 +1,7 @@
 
 #!/usr/bin/python3
 # 2-uniq_add.py
-# # UKA JOSEPH <ukaukwauyojoseph@gmail.com>
+# UKA JOSEPH <ukaukwauyojoseph@gmail.com>
 
 def uniq_add(my_list=[]):
     """Add all unique integers in a list (once for each integer)."""
